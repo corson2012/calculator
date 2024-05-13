@@ -1,0 +1,19 @@
+body {
+    background-color: #161c47;
+}
+
+h1 {
+    margin: auto;
+    color: white;
+    text-align: center;
+}
+
+.function-btn {
+    background-color: #c49752;
+    border-color: black;
+}
+
+#calculator-container {
+    margin: auto;
+    border-color: gray;
+}
